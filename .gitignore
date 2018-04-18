@@ -1,0 +1,14 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.VC.opendb
+*.VC.db
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a

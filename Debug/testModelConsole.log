@@ -1,0 +1,8 @@
+﻿  Main.cpp
+e:\vs_test\testmodelconsole\integrator.h(10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\vs_test\testmodelconsole\step.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\vs_test\testmodelconsole\graph.h(30): warning C4018: '<': signed/unsigned mismatch
+e:\vs_test\testmodelconsole\graph.h(43): warning C4018: '<': signed/unsigned mismatch
+e:\vs_test\testmodelconsole\nv.h(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\vs_test\testmodelconsole\nv.h(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  testModelConsole.vcxproj -> E:\VS_TEST\testModelConsole\Debug\testModelConsole.exe
